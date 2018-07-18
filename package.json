@@ -96,6 +96,8 @@
   "devDependencies": {
     "antd-mobile-demo-data": "^0.2.0",
     "axios": "^0.18.0",
+    "babel-plugin-import": "^1.8.0",
+    "babel-preset-stage-2": "^6.24.1",
     "immutable": "^3.8.2",
     "re-form": "^1.0.2",
     "redux-promise": "^0.6.0"
